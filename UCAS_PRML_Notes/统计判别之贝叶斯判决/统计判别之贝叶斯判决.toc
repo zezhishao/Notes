@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}基本概念}{2}{section.1}% 
+\contentsline {section}{\numberline {2}简单贝叶斯判别}{2}{section.2}% 
+\contentsline {section}{\numberline {3}贝叶斯决策论——推广的简单贝叶斯判别}{2}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}贝叶斯决策论}{2}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}回到二分类}{3}{subsection.3.2}% 
+\contentsline {section}{\numberline {4}分类器、判别函数及判定面}{4}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}贝叶斯分类器}{4}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}二类情况下的贝叶斯分类器}{5}{subsection.4.2}% 
+\contentsline {section}{\numberline {5}正态分布的贝叶斯分类器}{5}{section.5}% 
+\contentsline {subsection}{\numberline {5.1}正态分布}{5}{subsection.5.1}% 
+\contentsline {subsection}{\numberline {5.2}一些基本概念}{6}{subsection.5.2}% 
+\contentsline {subsection}{\numberline {5.3}正态分布下，贝叶斯决策论的判别函数}{7}{subsection.5.3}% 
+\contentsline {subsection}{\numberline {5.4}两类问题且其类模式都是正态分布的特殊情况}{7}{subsection.5.4}% 
+\contentsline {section}{\numberline {6}均值向量和协方差矩阵的参数估计}{8}{section.6}% 
+\contentsline {subsection}{\numberline {6.1}均值和协方差矩阵的非随机参数的估计}{8}{subsection.6.1}% 
+\contentsline {subsection}{\numberline {6.2}均值向量和协方差矩阵的贝叶斯学习：随机参数估计}{10}{subsection.6.2}% 

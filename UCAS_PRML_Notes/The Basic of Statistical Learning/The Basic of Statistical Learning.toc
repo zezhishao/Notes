@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}经验误差与过拟合：一些基本概念}{2}{section.1}% 
+\contentsline {section}{\numberline {2}评估方法和测试误差}{2}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}留出法}{3}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}交叉验证法}{3}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.3}自助法}{3}{subsection.2.3}% 
+\contentsline {subsection}{\numberline {2.4}调参和最终模型}{3}{subsection.2.4}% 
+\contentsline {section}{\numberline {3}性能度量}{3}{section.3}% 
+\contentsline {section}{\numberline {4}偏差与方差的概念}{3}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}以变量的视角去看训练过程}{3}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}泛化误差的期望}{4}{subsection.4.2}% 
+\contentsline {subsection}{\numberline {4.3}求解泛化误差的期望}{4}{subsection.4.3}% 
+\contentsline {subsection}{\numberline {4.4}解释泛化误差的期望}{5}{subsection.4.4}% 
+\contentsline {subsection}{\numberline {4.5}偏差-方差窘境}{6}{subsection.4.5}% 
+\contentsline {subsection}{\numberline {4.6}关于偏差和方差的更多讨论}{6}{subsection.4.6}% 
+\contentsline {subsection}{\numberline {4.7}Bayesian model selection}{7}{subsection.4.7}% 
+\contentsline {section}{\numberline {5}一种缓解过拟合的方法——正则化}{7}{section.5}% 
+\contentsline {subsection}{\numberline {5.1}简单复习线性回归Linear Regression}{7}{subsection.5.1}% 
+\contentsline {section}{\numberline {6}统计学习初步}{8}{section.6}% 

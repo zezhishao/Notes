@@ -1,0 +1,36 @@
+\contentsline {section}{\numberline {1}线性判别函数}{3}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}相关参数定义}{3}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}两类情况}{4}{subsection.1.2}% 
+\contentsline {subsection}{\numberline {1.3}多类情况}{4}{subsection.1.3}% 
+\contentsline {section}{\numberline {2}广义线性判别函数}{5}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}基本思想——非线性映射}{5}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}关于映射函数$f_i(\mathbf {\mathbf {\mathbf {x}}})$的讨论}{6}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.3}结论}{7}{subsection.2.3}% 
+\contentsline {section}{\numberline {3}分段线性判别函数}{7}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}出发点}{7}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}主要思想：逼近}{8}{subsection.3.2}% 
+\contentsline {subsection}{\numberline {3.3}设计一个分段线性判别函数}{8}{subsection.3.3}% 
+\contentsline {section}{\numberline {4}降维——Fisher分析法}{9}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}降维}{9}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}问题描述}{9}{subsection.4.2}% 
+\contentsline {subsection}{\numberline {4.3}从$\mathscr {R}^d$空间到 $\mathscr {R}^1$空间的一般数学变换方法 }{9}{subsection.4.3}% 
+\contentsline {subsection}{\numberline {4.4}Fisher准则函数的定义}{9}{subsection.4.4}% 
+\contentsline {subsection}{\numberline {4.5}基于最佳变换向量$\mathbf {w^*}$的投影}{9}{subsection.4.5}% 
+\contentsline {section}{\numberline {5}确定判别函数参数——感知器算法}{9}{section.5}% 
+\contentsline {subsection}{\numberline {5.1}算法思想}{10}{subsection.5.1}% 
+\contentsline {subsection}{\numberline {5.2}感知器的二分类训练算法}{10}{subsection.5.2}% 
+\contentsline {section}{\numberline {6}感知器算法的多模式分类}{11}{section.6}% 
+\contentsline {subsection}{\numberline {6.1}迭代过程}{12}{subsection.6.1}% 
+\contentsline {subsection}{\numberline {6.2}使用迭代计算参数的确定性分类器的一些讨论}{12}{subsection.6.2}% 
+\contentsline {section}{\numberline {7}推广：可训练的确定性分类器的迭代过程}{13}{section.7}% 
+\contentsline {subsection}{\numberline {7.1}梯度法}{13}{subsection.7.1}% 
+\contentsline {subsection}{\numberline {7.2}梯度法最简单的训练方式：固定增量的逐次调整算法}{14}{subsection.7.2}% 
+\contentsline {subsection}{\numberline {7.3}最小平方误差(LMSE)算法}{14}{subsection.7.3}% 
+\contentsline {subsubsection}{\numberline {7.3.1}感知器的缺点以及LMSE的特点}{14}{subsubsection.7.3.1}% 
+\contentsline {subsubsection}{\numberline {7.3.2}符号和数学概念}{14}{subsubsection.7.3.2}% 
+\contentsline {subsubsection}{\numberline {7.3.3}LMSE-(H-K)算法}{17}{subsubsection.7.3.3}% 
+\contentsline {subsubsection}{\numberline {7.3.4}如何根据LMSE看出是否样本集是否线性可分}{17}{subsubsection.7.3.4}% 
+\contentsline {subsection}{\numberline {7.4}关于上述两种方法的讨论}{17}{subsection.7.4}% 
+\contentsline {subsection}{\numberline {7.5}扩展：LMS算法介绍以及其和LMSE算法、Fisher算法以及bayes算法的关系$^*$}{17}{subsection.7.5}% 
+\contentsline {section}{\numberline {8}势函数法 — 一种确定性的非线性分类方法}{17}{section.8}% 
+\contentsline {section}{\numberline {9}决策树简介}{17}{section.9}% 
